@@ -1,6 +1,6 @@
 # Flask-Nginx
 
-This repository was generated as support to my [Medium](https://nodejs.org/) post.
+This repository was generated as support to my [Medium](https://medium.com/@fcostagalo/how-to-deploy-a-flask-application-using-nginx-on-aws-ecs-part-1-229dabb637c0) post.
 
 ## Installation
 
